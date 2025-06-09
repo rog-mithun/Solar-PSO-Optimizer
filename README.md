@@ -76,12 +76,19 @@ A full-stack tool using Particle Swarm Optimization (PSO) to identify optimal lo
 
 ## 📂 Demo & Output Samples
 
+### 📄 Chat Export & Reward Files
+- [Chat Log](chat_export.csv)
+- [Reward Log](logs/multiturn_log.csv)
+- [Reward Graph](logs/multiturn_rewards.png)
 
+### 🎥 Model Output or Voice Demo
+[▶️ Play Demo Output](media/demo_video.mp4)
 
 ---
 
 ## 📖 License
 
-This project is licensed under the MIT License © 2025 Mithunsankar S.
+This project is licensed under the [MIT License](LICENSE) © 2025 Mithunsankar S.
+
 
 
