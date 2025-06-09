@@ -76,8 +76,8 @@ A full-stack tool using Particle Swarm Optimization (PSO) to identify optimal lo
 
 ## 📂 Demo & Output Samples
 
-- [UI](ui.png)
-- [Output](output.png)
+- ![UI](ui.png)
+- ![Output](output.png)
 
 ---
 
