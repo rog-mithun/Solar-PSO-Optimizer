@@ -57,7 +57,7 @@ A full-stack tool using Particle Swarm Optimization (PSO) to identify optimal lo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rog-mithun/solar-site-optimizer.git
+   git clone https://github.com/rog-mithun/Solar-Site-Optimizer.git
    cd solar-site-optimizer
 
 2. **Start the backend (FastAPI):**
