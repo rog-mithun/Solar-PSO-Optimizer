@@ -75,7 +75,7 @@ A full-stack tool using Particle Swarm Optimization (PSO) to identify optimal lo
 ---
 
 ## 🧪 Sample Dataset
-- ![Dataset](solar-pso-backend/uploads/tamilnadu_solar_sites.csv)
+- [Dataset](solar-pso-backend/uploads/tamilnadu_solar_sites.csv)
 - Contains: Latitude, Longitude, Irradiance, Land Cost, Infrastructure Distance
 - Used as default input for testing site selection
 
